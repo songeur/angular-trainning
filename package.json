@@ -11,7 +11,7 @@
     "precommit": "npm run lint",
     "commitmsg": "commitlint -E HUSKY_GIT_PARAMS",
     "test:cover": "rm -rf ./coverage && ng test --no-watch --code-coverage",
-    "coveralls": "cat ./coverage/Icov.info | ./node_modules/coveralls/bin/coveralls.js"
+    "report-coverage": "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js"
   },
   "private": true,
   "dependencies": {
