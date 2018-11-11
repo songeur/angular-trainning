@@ -6,5 +6,4 @@ config.capabilities = {
     args: ['--headless', '--no-sandbox', '--disable-gpu']
   }
 };
-
 exports.config = config;
