@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cd601830ef2a41aaaf3de6535106d8ac)](https://app.codacy.com/app/songeur/angular-trainning?utm_source=github.com&utm_medium=referral&utm_content=songeur/angular-trainning&utm_campaign=Badge_Grade_Dashboard)
 [![Coverage Status](https://coveralls.io/repos/github/songeur/angular-trainning/badge.svg?branch=master)](https://coveralls.io/github/songeur/angular-trainning?branch=master)
 [![Build Status](https://travis-ci.org/songeur/angular-trainning.svg?branch=master)](https://travis-ci.org/songeur/angular-trainning)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/678c2af118ff4067bc535b10431c072a)](https://www.codacy.com/app/songeur/angular-trainning?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=songeur/angular-trainning&amp;utm_campaign=Badge_Grade)
