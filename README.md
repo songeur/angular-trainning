@@ -1,3 +1,6 @@
+[![Coverage Status](https://coveralls.io/repos/github/songeur/angular-trainning/badge.svg?branch=master)](https://coveralls.io/github/songeur/angular-trainning?branch=master)
+[![Build Status](https://travis-ci.org/songeur/angular-trainning.svg?branch=master)](https://travis-ci.org/songeur/angular-trainning)
+
 # AngularTrainning
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.5.
