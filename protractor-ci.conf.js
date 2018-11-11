@@ -1,4 +1,4 @@
-/*const config = require('./protractor.conf').config;
+const config = require('./protractor.conf').config;
 
 config.capabilities = {
   browserName: 'chrome',
@@ -6,4 +6,4 @@ config.capabilities = {
     args: ['--headless', '--no-sandbox', '--disable-gpu']
   }
 };
-exports.config = config;*/
+exports.config = config;
