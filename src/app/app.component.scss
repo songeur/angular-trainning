@@ -8,4 +8,7 @@ h1 {
 
 h2 {
   @include ellipsis;
+
+h1 {
+  color: $h1-color;
 }
