@@ -36,5 +36,6 @@ deploy:
   local-dir: gh-pages
   on:
     branch: master
+    branch: developp
     branch: feat/gh-pages-with-travis
 
